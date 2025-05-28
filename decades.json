@@ -1,0 +1,19 @@
+[
+  {
+    "id": "1980s",
+    "name": "1980s",
+    "category": "Decades",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Landscape",
+    "backgroundImageURL": "https://raw.githubusercontent.com/Kuwima/Decades/refs/heads/main/IMG_4750.jpeg?token=GHSAT0AAAAAADEVLVSX7MGBO3VWDSOJU5VM2BW5O7A",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "mediaTypeFilter": "All Content",
+    "textSize": "Large",
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#000000"
+  },
+  
